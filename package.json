@@ -1,5 +1,5 @@
 {
-  "name": "sequential-request-maker",
+  "name": "sequential-http-request-maker",
   "version": "1.0.0",
   "description": "A tool to make incremental sequential requests for multiple iterations",
   "main": "index.js",
