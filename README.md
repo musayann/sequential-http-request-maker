@@ -5,7 +5,7 @@ A tool to make incremental sequential requests for multiple iterations
 
 ## Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
+To run this project, you will need to add the following environment variables to your `.env` file
 
 `URL`: The url you want to make requests to.
 
