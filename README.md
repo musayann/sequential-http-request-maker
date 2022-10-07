@@ -31,4 +31,4 @@ Start the sequence
 
 ## License
 
-[MIT][license]
+[MIT](license)
